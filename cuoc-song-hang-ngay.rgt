@@ -1,0 +1,525 @@
+#ROBOT-GIAO-TRINH|1
+@book|cuoc-song-hang-ngay|Cuộc sống hàng ngày
+@lesson|1|Làm quen, chào hỏi
+K|làm quen, chào hỏi, giới thiệu bản thân, hàng xóm, đồng nghiệp mới, xin chào
+W|안녕하세요|an-nyeong-ha-se-yo|xin chào|안녕하세요, 저는 투안이에요.|Xin chào, tôi là Tuấn.
+W|처음 뵙겠습니다|cheo-eum boep-get-seum-ni-da|lần đầu gặp mặt (trang trọng)|처음 뵙겠습니다. 잘 부탁드립니다.|Lần đầu gặp mặt, mong được giúp đỡ.
+W|이름|i-reum|tên|이름이 뭐예요?|Bạn tên là gì?
+W|베트남 사람|be-teu-nam sa-ram|người Việt Nam|저는 베트남 사람이에요.|Tôi là người Việt Nam.
+W|고향|go-hyang|quê|고향이 어디예요?|Quê bạn ở đâu?
+W|이웃|i-ut|hàng xóm|이웃에 새로 이사 왔어요.|Tôi mới chuyển đến làm hàng xóm.
+W|옆집|yeop-jip|nhà bên cạnh|옆집에 살아요.|Tôi sống ở nhà bên cạnh.
+W|동료|dong-nyo|đồng nghiệp|회사 동료예요.|Là đồng nghiệp ở công ty.
+W|선배|seon-bae|tiền bối, người vào trước|선배님, 도와주셔서 감사합니다.|Anh/chị ơi, cảm ơn đã giúp em.
+W|나이|na-i|tuổi|나이가 어떻게 되세요?|Anh/chị bao nhiêu tuổi ạ?
+W|취미|chwi-mi|sở thích|취미가 뭐예요?|Sở thích của bạn là gì?
+W|주말|ju-mal|cuối tuần|주말에 뭐 해요?|Cuối tuần bạn làm gì?
+W|반갑다|ban-gap-da|vui (khi gặp ai)|만나서 반가워요.|Rất vui được gặp bạn.
+W|감사합니다|gam-sa-ham-ni-da|cảm ơn|정말 감사합니다.|Thật sự cảm ơn.
+W|죄송합니다|joe-song-ham-ni-da|xin lỗi (lịch sự)|늦어서 죄송합니다.|Xin lỗi vì đến muộn.
+W|연락처|yeol-lak-cheo|số liên lạc|연락처 좀 알려 주세요.|Cho tôi xin số liên lạc.
+W|한국 생활|han-guk saeng-hwal|cuộc sống ở Hàn|한국 생활은 어때요?|Cuộc sống ở Hàn thế nào?
+G|N이에요/예요|là N|có patchim: N + 이에요 (학생이에요)|không patchim: N + 예요 (의사예요)|저는 학생이에요.|Tôi là sinh viên.
+G|N에서 왔어요|đến từ N|nơi xuất phát: N + 에서 왔어요|hỏi: 어디에서 왔어요?|베트남에서 왔어요.|Tôi đến từ Việt Nam.
+G|N이/가 어떻게 되세요?|hỏi lịch sự (tuổi, tên, số điện thoại)|có patchim: N + 이 어떻게 되세요? (성함이)|không patchim: N + 가 어떻게 되세요? (나이가, 연락처가)|성함이 어떻게 되세요?|Quý danh của anh/chị là gì ạ?
+S|Bạn mới chuyển đến căn hộ. Gặp hàng xóm nhà bên trong thang máy: chào, giới thiệu tên, quê Việt Nam, nói mình đang làm / học ở đâu, và nói mong được giúp đỡ.
+D|Hàng xóm|안녕하세요? 새로 이사 오셨어요?|Xin chào, bạn mới chuyển đến à?
+D|Bạn|네, 안녕하세요. 저는 투안이에요. 베트남에서 왔어요.|Vâng, xin chào. Tôi là Tuấn. Tôi đến từ Việt Nam.
+D|Hàng xóm|반가워요. 저는 옆집에 살아요. 한국 생활은 어때요?|Rất vui được gặp. Tôi sống nhà bên cạnh. Cuộc sống ở Hàn thế nào?
+D|Bạn|조금 힘들지만 재미있어요. 공장에서 일해요.|Hơi vất vả nhưng vui. Tôi làm ở nhà máy.
+D|Hàng xóm|그래요? 모르는 거 있으면 물어보세요.|Vậy à? Có gì không biết thì cứ hỏi nhé.
+D|Bạn|감사합니다. 잘 부탁드립니다.|Cảm ơn. Mong được giúp đỡ.
+Q|Tuấn đến từ đâu?|Việt Nam (베트남에서 왔어요).
+Q|Người hàng xóm sống ở đâu?|Nhà bên cạnh (옆집).
+@lesson|2|Đi ăn quán, gọi món
+K|đi ăn, ăn quán, quán ăn, gọi món, thực đơn, ăn uống, thịt nướng, nhà hàng, ăn nhà hàng
+W|식당|sik-dang|quán ăn, nhà hàng|식당에 가요.|Đi quán ăn.
+W|메뉴판|me-nyu-pan|thực đơn|메뉴판 좀 주세요.|Cho tôi xem thực đơn.
+W|주문|ju-mun|gọi món, đặt hàng|주문할게요.|Tôi gọi món ạ.
+W|여기요|yeo-gi-yo|(gọi nhân viên) anh/chị ơi|여기요! 주문할게요.|Anh/chị ơi! Tôi gọi món.
+W|몇 분|myeot bun|mấy người (kính ngữ)|몇 분이세요?|Quý khách mấy người ạ?
+W|인분|in-bun|suất (cho ... người)|삼겹살 2인분 주세요.|Cho tôi 2 suất thịt ba chỉ.
+W|반찬|ban-chan|món ăn kèm|반찬 더 주세요.|Cho thêm món kèm.
+W|셀프|sel-peu|tự phục vụ (từ mượn tiếng Anh)|물은 셀프예요.|Nước tự lấy.
+W|리필|ri-pil|lấy thêm (từ mượn tiếng Anh)|반찬 리필 돼요?|Có lấy thêm món kèm được không?
+W|맵다|maep-da|cay|이거 매워요?|Món này cay không?
+W|덜|deol|bớt, ít hơn|덜 맵게 해 주세요.|Làm bớt cay giúp tôi.
+W|맛있다|ma-sit-da|ngon|정말 맛있어요.|Ngon thật.
+W|포장|po-jang|gói mang về|남은 거 포장해 주세요.|Gói phần còn lại mang về giúp tôi.
+W|사장님|sa-jang-nim|ông/bà chủ (cách gọi chủ quán)|사장님, 계산해 주세요.|Chủ quán ơi, tính tiền giúp tôi.
+W|고기|go-gi|thịt|고기 좀 구워 주세요.|Nướng thịt giúp tôi.
+W|숟가락|sut-ga-rak|thìa|숟가락 하나 더 주세요.|Cho thêm một cái thìa.
+W|젓가락|jeot-ga-rak|đũa|젓가락이 없어요.|Không có đũa.
+G|N(으)로 주세요|cho tôi (chọn) N|có patchim (trừ ㄹ): N + 으로 주세요 (비빔밥으로, 냉면으로)|không patchim hoặc ㄹ: N + 로 주세요 (커피로, 이걸로)|이걸로 주세요.|Cho tôi cái này.
+G|A-게 해 주세요|làm cho (thế nào) giúp tôi|A + 게 해 주세요 (맵다 -> 맵게, 짜다 -> 짜게)|phủ định: 안 맵게 / 짜지 않게 해 주세요|덜 맵게 해 주세요.|Làm bớt cay giúp tôi.
+G|V-(으)ㄹ게요|tôi sẽ (quyết định, hứa)|có patchim: V + 을게요 (먹을게요)|không patchim: V + ㄹ게요 (주문할게요)|김치찌개 먹을게요.|Tôi sẽ ăn canh kim chi.
+S|Bạn và một đồng nghiệp vào quán thịt nướng. Nhân viên hỏi mấy người. Bạn nói 2 người, gọi 2 suất thịt ba chỉ, hỏi canh có cay không, nhờ làm bớt cay và xin thêm món kèm.
+D|Nhân viên|어서 오세요. 몇 분이세요?|Mời vào. Quý khách mấy người ạ?
+D|Bạn|두 명이요.|Hai người ạ.
+D|Nhân viên|이쪽으로 앉으세요. 뭐 드릴까요?|Mời ngồi bên này. Quý khách dùng gì ạ?
+D|Bạn|삼겹살 2인분 주세요. 김치찌개는 매워요?|Cho 2 suất thịt ba chỉ. Canh kim chi có cay không?
+D|Nhân viên|조금 매워요. 덜 맵게 해 드릴까요?|Hơi cay. Tôi làm bớt cay nhé?
+D|Bạn|네, 덜 맵게 해 주세요. 물은 어디 있어요?|Vâng, làm bớt cay giúp tôi. Nước ở đâu ạ?
+D|Nhân viên|물은 셀프예요. 저쪽에 있어요.|Nước tự lấy ạ, ở đằng kia.
+Q|Bạn gọi mấy suất thịt ba chỉ?|2 suất (2인분).
+Q|Nước uống lấy thế nào?|Tự lấy (셀프), ở đằng kia.
+@lesson|3|Đặt đồ ăn giao tận nơi (배달)
+K|đặt đồ ăn, gọi đồ ăn, giao đồ ăn, đồ ăn giao tận nơi, ship đồ ăn, baedal, 배달, gà rán
+W|배달|bae-dal|giao hàng, giao đồ ăn|배달 돼요?|Có giao hàng không?
+W|배달 앱|bae-dal aep|ứng dụng gọi đồ ăn|배달 앱으로 시켰어요.|Tôi đặt qua ứng dụng.
+W|시키다|si-ki-da|gọi, đặt (đồ ăn) – nói hằng ngày|치킨 시킬까요?|Mình gọi gà rán nhé?
+W|동 호수|dong ho-su|số tòa, số phòng (chung cư)|동 호수를 알려 주세요.|Cho biết số tòa, số phòng.
+W|배달비|bae-dal-bi|phí giao hàng|배달비가 3천 원이에요.|Phí giao 3 nghìn won.
+W|최소 주문 금액|choe-so ju-mun geu-maek|số tiền đặt tối thiểu|최소 주문 금액이 만 원이에요.|Đặt tối thiểu 10 nghìn won.
+W|요청 사항|yo-cheong sa-hang|ghi chú yêu cầu|요청 사항에 써 주세요.|Ghi vào phần yêu cầu giúp tôi.
+W|문 앞|mun ap|trước cửa|문 앞에 놓아 주세요.|Để trước cửa giúp tôi.
+W|벨|bel|chuông cửa|벨 누르지 마세요.|Đừng bấm chuông.
+W|도착|do-chak|đến nơi|곧 도착해요.|Sắp đến rồi.
+W|늦다|neut-da|muộn, trễ|배달이 너무 늦어요.|Giao muộn quá.
+W|빠뜨리다|ppa-tteu-ri-da|làm sót, quên (bỏ sót)|음료수를 빠뜨렸어요.|Bị sót nước uống.
+W|음료수|eum-nyo-su|nước uống|음료수도 시켰어요.|Tôi gọi cả nước uống.
+W|서비스|seo-bi-seu|đồ tặng kèm, miễn phí (cách nói ở Hàn)|콜라는 서비스예요.|Cola được tặng.
+W|치킨|chi-kin|gà rán|치킨 한 마리 주세요.|Cho một con gà rán.
+W|마리|ma-ri|con (đếm con vật, gà rán)|반 마리도 돼요?|Nửa con được không?
+W|리뷰|ri-byu|đánh giá (trên ứng dụng)|리뷰 쓰면 서비스 줘요.|Viết đánh giá thì được tặng.
+G|V-아/어 주세요|nhờ làm giúp (lịch sự)|nguyên âm ㅏ/ㅗ: + 아 주세요 (놓아 주세요)|nguyên âm khác: + 어 주세요; 하다 -> 해 주세요|문 앞에 놓아 주세요.|Để trước cửa giúp tôi.
+G|V-지 마세요|đừng V|V + 지 마세요 (누르다 -> 누르지 마세요)|nhẹ nhàng hơn: V + 지 말아 주세요|벨 누르지 마세요.|Đừng bấm chuông.
+G|N이/가 얼마나 걸려요?|N mất bao lâu?|có patchim: N + 이 얼마나 걸려요? (배달이)|không patchim: N + 가 얼마나 걸려요? (수리가)|배달이 얼마나 걸려요?|Giao hàng mất bao lâu?
+S|Bạn gọi điện đặt gà rán ở quán gần nhà. Nói địa chỉ, số tòa, số phòng; hỏi giao mất bao lâu; nhờ để trước cửa và đừng bấm chuông vì em bé đang ngủ.
+D|Chủ quán|네, 치킨집입니다.|Vâng, quán gà rán xin nghe.
+D|Bạn|배달 돼요? 치킨 한 마리 주세요.|Có giao không ạ? Cho tôi một con gà rán.
+D|Chủ quán|네. 주소가 어떻게 되세요?|Vâng. Địa chỉ là gì ạ?
+D|Bạn|행복아파트 101동 502호예요.|Chung cư Haengbok, tòa 101, phòng 502.
+D|Chủ quán|40분쯤 걸려요.|Mất khoảng 40 phút.
+D|Bạn|문 앞에 놓아 주세요. 벨은 누르지 마세요.|Để trước cửa giúp tôi. Đừng bấm chuông nhé.
+Q|Giao hàng mất bao lâu?|Khoảng 40 phút (40분쯤).
+Q|Bạn dặn chủ quán điều gì?|Để trước cửa, đừng bấm chuông.
+@lesson|4|Siêu thị, mua sắm
+K|siêu thị, mua sắm, mua đồ, mart, cửa hàng tiện lợi, khuyến mãi
+W|마트|ma-teu|siêu thị|마트에 장 보러 가요.|Tôi đi siêu thị mua đồ.
+W|가격|ga-gyeok|giá|가격이 너무 비싸요.|Giá đắt quá.
+W|할인|ha-rin|giảm giá|이거 할인해요?|Cái này có giảm giá không?
+W|계산|gye-san|thanh toán, tính tiền|계산해 주세요.|Tính tiền giúp tôi.
+W|계산대|gye-san-dae|quầy thanh toán|계산대가 어디예요?|Quầy thanh toán ở đâu?
+W|영수증|yeong-su-jeung|hóa đơn|영수증 주세요.|Cho tôi hóa đơn.
+W|봉투|bong-tu|túi (đựng đồ)|봉투 필요하세요?|Anh/chị cần túi không?
+W|카드|ka-deu|thẻ|카드로 할게요.|Tôi trả bằng thẻ.
+W|현금|hyeon-geum|tiền mặt|현금으로 계산할게요.|Tôi trả tiền mặt.
+W|교환|gyo-hwan|đổi hàng|다른 사이즈로 교환하고 싶어요.|Tôi muốn đổi cỡ khác.
+W|환불|hwan-bul|hoàn tiền|환불할 수 있어요?|Hoàn tiền được không?
+W|유통기한|yu-tong-gi-han|hạn sử dụng|유통기한이 지났어요.|Đã quá hạn sử dụng.
+W|원|won|won (tiền Hàn)|만 원이에요.|Mười nghìn won.
+W|개|gae|cái (đếm đồ vật)|사과 세 개 주세요.|Cho tôi ba quả táo.
+W|하나 더|ha-na deo|thêm một cái|하나 더 주세요.|Cho thêm một cái.
+W|원 플러스 원|won peul-leo-seu won|mua 1 tặng 1 (1+1)|이거 원 플러스 원이에요?|Cái này mua 1 tặng 1 à?
+G|N 주세요|cho tôi N|dùng chung: N + 주세요|có số lượng: N + số + 주세요 (사과 세 개 주세요)|봉투 하나 주세요.|Cho tôi một cái túi.
+G|V-(으)ㄹ 수 있어요?|có thể V không?|có patchim: + 을 수 있어요 (먹을 수 있어요)|không patchim: + ㄹ 수 있어요 (환불할 수 있어요)|환불할 수 있어요?|Có hoàn tiền được không?
+S|Bạn mua sữa về nhà mới thấy đã quá hạn sử dụng. Quay lại siêu thị, đưa hóa đơn, nói lý do và xin đổi sữa mới hoặc hoàn tiền.
+D|Nhân viên|다음 분 오세요. 봉투 필요하세요?|Mời người tiếp theo. Có cần túi không ạ?
+D|Bạn|네, 하나 주세요. 이 우유 할인돼요?|Vâng, cho một cái. Sữa này có giảm giá không?
+D|Nhân viên|네, 원 플러스 원이에요. 하나 더 가져오세요.|Có, mua 1 tặng 1. Lấy thêm một hộp nữa đi ạ.
+D|Bạn|아, 그래요? 금방 가져올게요.|À vậy à? Tôi lấy ngay.
+D|Nhân viên|카드로 하세요, 현금으로 하세요?|Trả thẻ hay tiền mặt ạ?
+D|Bạn|카드로 할게요. 영수증 주세요.|Tôi trả thẻ. Cho tôi hóa đơn.
+Q|Sữa có khuyến mãi gì?|Mua 1 tặng 1 (원 플러스 원).
+Q|Bạn trả tiền bằng gì?|Bằng thẻ (카드).
+@lesson|5|Đi chợ truyền thống, hỏi giá
+K|đi chợ, chợ truyền thống, ra chợ, hỏi giá, mặc cả, trả giá, mua rau, mua cá
+W|시장|si-jang|chợ|시장에 장 보러 가요.|Tôi đi chợ mua đồ.
+W|전통 시장|jeon-tong si-jang|chợ truyền thống|전통 시장이 더 싸요.|Chợ truyền thống rẻ hơn.
+W|장 보다|jang bo-da|đi chợ, mua đồ ăn|주말에 장 봐요.|Cuối tuần tôi đi chợ.
+W|얼마예요|eol-ma-ye-yo|bao nhiêu tiền|이거 얼마예요?|Cái này bao nhiêu?
+W|싸다|ssa-da|rẻ|여기가 더 싸요.|Ở đây rẻ hơn.
+W|비싸다|bi-ssa-da|đắt|너무 비싸요.|Đắt quá.
+W|깎아 주다|kka-kka ju-da|bớt giá|좀 깎아 주세요.|Bớt cho tôi chút.
+W|덤|deom|đồ cho thêm|덤으로 하나 더 드릴게요.|Tặng thêm cho một cái.
+W|근|geun|cân (thịt ~600 g, rau ~400 g)|돼지고기 한 근 주세요.|Cho một cân thịt lợn.
+W|봉지|bong-ji|túi|한 봉지에 오천 원이에요.|Một túi 5 nghìn won.
+W|채소|chae-so|rau củ|채소가 신선해요.|Rau tươi.
+W|과일|gwa-il|hoa quả|과일 가게가 어디예요?|Hàng hoa quả ở đâu?
+W|생선|saeng-seon|cá (để ăn)|생선 한 마리 주세요.|Cho tôi một con cá.
+W|손질|son-jil|sơ chế, làm sạch|손질해 드릴까요?|Có cần làm sạch giúp không?
+W|신선하다|sin-seon-ha-da|tươi|오늘 들어온 거라 신선해요.|Hàng mới về hôm nay nên tươi.
+W|맛보다|mat-bo-da|nếm thử|맛봐도 돼요?|Tôi nếm thử được không?
+W|이모|i-mo|cô, dì (gọi người bán hàng nữ, thân mật)|이모, 이거 얼마예요?|Dì ơi, cái này bao nhiêu?
+G|N에 얼마예요?|(mỗi) N bao nhiêu tiền?|đơn vị + 에 얼마예요? (하나에, 한 봉지에)|trả lời: 한 근에 만 원이에요|한 근에 얼마예요?|Một cân bao nhiêu?
+G|A-(으)ㄴ 거 있어요?|có cái (A) không?|có patchim: A + 은 거 (작은 거)|không patchim: A + ㄴ 거 (싼 거, 큰 거)|더 싼 거 있어요?|Có cái rẻ hơn không?
+G|V-아/어 주시면 안 돼요?|... giúp tôi được không ạ (nhờ khéo)|nguyên âm ㅏ/ㅗ: + 아 주시면 안 돼요?|nguyên âm khác: + 어 주시면 안 돼요?; 하다 -> 해 주시면|좀 깎아 주시면 안 돼요?|Bớt cho tôi chút được không ạ?
+S|Ở chợ truyền thống, bạn muốn mua thịt lợn và hoa quả. Hỏi giá một cân, hỏi có loại rẻ hơn không, nhờ bà bán hàng bớt giá vì mua nhiều.
+D|Bạn|이모, 이 사과 얼마예요?|Dì ơi, táo này bao nhiêu?
+D|Người bán|한 봉지에 만 원이에요.|Một túi 10 nghìn won.
+D|Bạn|좀 비싸요. 더 싼 거 있어요?|Hơi đắt. Có loại rẻ hơn không?
+D|Người bán|이건 칠천 원이에요. 조금 작아요.|Cái này 7 nghìn won. Hơi nhỏ.
+D|Bạn|두 봉지 사면 좀 깎아 주시면 안 돼요?|Mua hai túi thì bớt cho tôi chút được không ạ?
+D|Người bán|그래요. 만삼천 원만 주세요. 덤으로 하나 더 줄게요.|Được. Đưa 13 nghìn thôi. Tặng thêm một quả.
+Q|Túi táo loại nhỏ giá bao nhiêu?|7 nghìn won (칠천 원).
+Q|Mua hai túi bạn trả bao nhiêu?|13 nghìn won, được tặng thêm một quả.
+@lesson|6|Cắt tóc
+K|cắt tóc, tiệm tóc, làm tóc, uốn tóc, nhuộm tóc, tiệm cắt tóc
+W|미용실|mi-yong-sil|tiệm làm tóc|미용실 예약했어요.|Tôi đã đặt lịch tiệm tóc.
+W|이발소|i-bal-so|tiệm cắt tóc nam|이발소가 더 싸요.|Tiệm cắt tóc nam rẻ hơn.
+W|머리|meo-ri|tóc, đầu|머리 자르러 왔어요.|Tôi đến cắt tóc.
+W|자르다|ja-reu-da|cắt|짧게 잘라 주세요.|Cắt ngắn giúp tôi.
+W|커트|keo-teu|cắt tóc (từ mượn, tên dịch vụ)|커트 얼마예요?|Cắt tóc bao nhiêu?
+W|다듬다|da-deum-da|tỉa|끝만 다듬어 주세요.|Chỉ tỉa phần ngọn.
+W|짧다|jjal-da|ngắn|너무 짧아요.|Ngắn quá.
+W|길다|gil-da|dài|좀 길게 해 주세요.|Để dài một chút.
+W|앞머리|am-meo-ri|tóc mái|앞머리는 그대로 두세요.|Giữ nguyên tóc mái.
+W|옆머리|yeom-meo-ri|tóc hai bên|옆머리 더 짧게 해 주세요.|Hai bên cắt ngắn hơn.
+W|파마|pa-ma|uốn tóc|파마하고 싶어요.|Tôi muốn uốn tóc.
+W|염색|yeom-saek|nhuộm tóc|갈색으로 염색해 주세요.|Nhuộm màu nâu giúp tôi.
+W|샴푸|syam-pu|gội đầu (dầu gội)|샴푸도 해 주세요.|Gội đầu giúp tôi.
+W|드라이|deu-ra-i|sấy tóc (từ mượn)|드라이는 안 해도 돼요.|Không cần sấy.
+W|스타일|seu-ta-il|kiểu (tóc)|이 스타일로 해 주세요.|Làm kiểu này giúp tôi.
+W|거울|geo-ul|gương|거울 좀 보여 주세요.|Cho tôi xem gương.
+W|괜찮다|gwaen-chan-ta|được, không sao|이 정도면 괜찮아요.|Thế này là được rồi.
+G|N처럼 해 주세요|làm giống N giúp tôi|N + 처럼 (사진처럼, 이 스타일처럼)|thợ hỏi: 어떻게 해 드릴까요?|이 사진처럼 해 주세요.|Làm giống ảnh này giúp tôi.
+G|N만 V|chỉ N|N + 만 (끝만, 앞머리만)|N만 있어요 = chỉ có N|끝만 다듬어 주세요.|Chỉ tỉa phần ngọn thôi.
+G|A-지 않게 해 주세요|làm sao cho không (quá) A|A + 지 않게 (짧지 않게)|nói gọn: 너무 짧게 하지 마세요|너무 짧지 않게 해 주세요.|Đừng cắt ngắn quá.
+S|Bạn vào tiệm tóc lần đầu. Nói muốn cắt tóc, chỉ tỉa phần ngọn, hai bên cắt ngắn hơn nhưng đừng ngắn quá, giữ nguyên tóc mái, và hỏi giá cắt.
+D|Thợ tóc|어서 오세요. 어떻게 해 드릴까요?|Mời vào. Anh/chị muốn làm thế nào ạ?
+D|Bạn|커트하러 왔어요. 끝만 다듬어 주세요.|Tôi đến cắt tóc. Chỉ tỉa phần ngọn thôi.
+D|Thợ tóc|옆머리는요?|Còn tóc hai bên thì sao ạ?
+D|Bạn|옆머리는 좀 짧게 해 주세요. 너무 짧지 않게요.|Hai bên cắt ngắn chút. Đừng ngắn quá.
+D|Thợ tóc|앞머리는 그대로 둘까요?|Tóc mái để nguyên nhé?
+D|Bạn|네, 그대로 두세요. 커트 얼마예요?|Vâng, để nguyên. Cắt bao nhiêu tiền ạ?
+D|Thợ tóc|만오천 원이에요.|15 nghìn won.
+Q|Bạn muốn làm gì với tóc mái?|Để nguyên (그대로 두세요).
+Q|Cắt tóc giá bao nhiêu?|15 nghìn won (만오천 원).
+@lesson|7|Đi xe buýt, tàu điện, taxi
+K|xe buýt, tàu điện, tàu điện ngầm, taxi, đi lại, hỏi đường, chuyển tuyến, đi xe
+W|버스|beo-seu|xe buýt|몇 번 버스 타요?|Đi xe buýt số mấy?
+W|지하철|ji-ha-cheol|tàu điện ngầm|지하철로 가요.|Đi bằng tàu điện ngầm.
+W|택시|taek-si|taxi|택시를 불렀어요.|Tôi đã gọi taxi.
+W|정류장|jeong-nyu-jang|trạm xe buýt|정류장이 어디예요?|Trạm xe buýt ở đâu?
+W|역|yeok|ga|다음 역은 서면역이에요.|Ga tiếp theo là ga Seomyeon.
+W|타다|ta-da|lên (xe), đi (xe)|여기서 타요.|Lên xe ở đây.
+W|내리다|nae-ri-da|xuống (xe)|다음 역에서 내려요.|Xuống ở ga sau.
+W|갈아타다|ga-ra-ta-da|đổi tuyến, chuyển xe|사상역에서 갈아타세요.|Đổi tàu ở ga Sasang.
+W|교통카드|gyo-tong-ka-deu|thẻ giao thông|교통카드를 찍어요.|Quẹt thẻ giao thông.
+W|충전|chung-jeon|nạp tiền, sạc|만 원 충전해 주세요.|Nạp 10 nghìn won giúp tôi.
+W|환승|hwan-seung|chuyển tuyến (trong 30 phút thường miễn phí)|환승입니다.|Chuyển tuyến. (tiếng máy quẹt thẻ)
+W|출구|chul-gu|cửa ra|3번 출구로 나가세요.|Ra cửa số 3.
+W|기사님|gi-sa-nim|bác tài|기사님, 여기서 세워 주세요.|Bác tài ơi, dừng ở đây giúp tôi.
+W|세우다|se-u-da|dừng (xe)|저 앞에서 세워 주세요.|Dừng ở phía trước giúp tôi.
+W|막차|mak-cha|chuyến cuối|막차가 몇 시예요?|Chuyến cuối mấy giờ?
+W|걸리다|geol-li-da|mất (thời gian)|30분 걸려요.|Mất 30 phút.
+W|방향|bang-hyang|hướng|부산 방향으로 가요.|Đi hướng Busan.
+G|N까지 가 주세요|cho tôi đến N (đi taxi)|N + 까지 가 주세요|từ ... đến ...: N에서 N까지|김해역까지 가 주세요.|Cho tôi đến ga Gimhae.
+G|N에서 내려요 / 갈아타요|xuống / đổi xe ở N|nơi diễn ra việc: N + 에서|đi tới: N + 에 가요|서면역에서 갈아타요.|Đổi tàu ở ga Seomyeon.
+G|N(으)로 가요|đi bằng N / về hướng N|có patchim (trừ ㄹ): N + 으로 (정류장으로)|không patchim hoặc ㄹ: N + 로 (버스로, 지하철로)|지하철로 가요.|Đi bằng tàu điện ngầm.
+S|Bạn đang ở ga Gimhae, muốn đến ga Seomyeon ở Busan. Hỏi nhân viên đi tuyến nào, đổi tàu ở đâu, mất bao lâu và chuyến cuối mấy giờ.
+D|Bạn|실례합니다. 서면역에 어떻게 가요?|Xin lỗi, đến ga Seomyeon đi thế nào ạ?
+D|Nhân viên ga|경전철을 타고 사상역까지 가세요.|Đi tàu điện nhẹ đến ga Sasang.
+D|Nhân viên ga|사상역에서 2호선으로 갈아타세요.|Ở ga Sasang đổi sang tuyến số 2.
+D|Bạn|얼마나 걸려요?|Mất bao lâu ạ?
+D|Nhân viên ga|50분쯤 걸려요.|Khoảng 50 phút.
+D|Bạn|막차는 몇 시예요?|Chuyến cuối mấy giờ ạ?
+D|Nhân viên ga|밤 11시 반이에요.|11 giờ rưỡi đêm.
+Q|Bạn phải đổi tàu ở ga nào?|Ga Sasang, đổi sang tuyến số 2.
+Q|Chuyến cuối lúc mấy giờ?|11 giờ rưỡi đêm.
+@lesson|8|Cửa hàng điện thoại, sim, internet
+K|điện thoại, sim, internet, wifi, cửa hàng điện thoại, gói cước, lắp mạng, mạng điện thoại
+W|휴대폰|hyu-dae-pon|điện thoại di động|휴대폰을 바꾸고 싶어요.|Tôi muốn đổi điện thoại.
+W|핸드폰|haen-deu-pon|điện thoại (cách nói hằng ngày)|핸드폰이 고장 났어요.|Điện thoại hỏng rồi.
+W|대리점|dae-ri-jeom|đại lý (cửa hàng điện thoại)|통신사 대리점에 가요.|Tôi đến đại lý nhà mạng.
+W|통신사|tong-sin-sa|nhà mạng|어느 통신사예요?|Nhà mạng nào?
+W|유심|yu-sim|sim (USIM)|유심을 사고 싶어요.|Tôi muốn mua sim.
+W|개통|gae-tong|kích hoạt, mở thuê bao|오늘 개통돼요?|Hôm nay kích hoạt được không?
+W|요금제|yo-geum-je|gói cước|싼 요금제 있어요?|Có gói cước rẻ không?
+W|데이터|de-i-teo|dữ liệu di động (data)|데이터가 부족해요.|Không đủ data.
+W|무제한|mu-je-han|không giới hạn|무제한 요금제예요.|Gói không giới hạn.
+W|알뜰폰|al-tteul-pon|sim giá rẻ (mạng ảo)|알뜰폰이 더 싸요.|Sim giá rẻ thì rẻ hơn.
+W|선불|seon-bul|trả trước|선불 유심 있어요?|Có sim trả trước không?
+W|약정|yak-jeong|cam kết thời hạn (hợp đồng)|2년 약정이에요.|Cam kết 2 năm.
+W|해지|hae-ji|huỷ (thuê bao, hợp đồng)|귀국하기 전에 해지해야 해요.|Phải huỷ trước khi về nước.
+W|와이파이|wa-i-pa-i|wifi|와이파이 비밀번호가 뭐예요?|Mật khẩu wifi là gì?
+W|인터넷 설치|in-teo-net seol-chi|lắp mạng internet|인터넷 설치는 언제 와요?|Khi nào đến lắp mạng?
+W|충전기|chung-jeon-gi|cục sạc|충전기 빌릴 수 있어요?|Tôi mượn cục sạc được không?
+W|화면|hwa-myeon|màn hình|화면이 깨졌어요.|Màn hình bị vỡ.
+G|N이/가 있어요?|có N không?|có patchim: N + 이 있어요? (선불 유심이)|không patchim: N + 가 있어요? (충전기가)|싼 요금제 있어요?|Có gói cước rẻ không?
+G|V-기 전에|trước khi V|V + 기 전에 (가다 -> 가기 전에)|danh từ: N 전에 (1년 전에)|귀국하기 전에 해지해요.|Huỷ trước khi về nước.
+G|V-(으)면 돼요?|V là được ạ?|có patchim: V + 으면 돼요? (읽으면)|không patchim hoặc ㄹ: V + 면 돼요? (하면, 만들면)|여기 서명하면 돼요?|Ký ở đây là được ạ?
+S|Bạn mới sang Hàn, đến cửa hàng nhà mạng mua sim. Hỏi có gói cước rẻ mà nhiều data không, hôm nay kích hoạt được không và cần mang giấy tờ gì.
+D|Nhân viên|어서 오세요. 뭘 도와드릴까요?|Mời vào. Tôi giúp gì được ạ?
+D|Bạn|유심을 사고 싶어요. 싼 요금제 있어요?|Tôi muốn mua sim. Có gói cước rẻ không?
+D|Nhân viên|알뜰폰 요금제가 있어요. 한 달에 이만 원이고 데이터는 무제한이에요.|Có gói sim giá rẻ. 20 nghìn won một tháng, data không giới hạn.
+D|Bạn|좋아요. 오늘 개통돼요?|Tốt quá. Hôm nay kích hoạt được không?
+D|Nhân viên|네, 외국인등록증하고 여권 주세요.|Được ạ, cho tôi thẻ người nước ngoài và hộ chiếu.
+D|Bạn|여기요. 여기 서명하면 돼요?|Đây ạ. Ký ở đây là được ạ?
+Q|Gói cước giá bao nhiêu một tháng?|20 nghìn won, data không giới hạn.
+Q|Cần đưa giấy tờ gì?|Thẻ người nước ngoài và hộ chiếu.
+@lesson|9|Bưu điện, gửi hàng về Việt Nam
+K|bưu điện, gửi hàng, gửi đồ, gửi về việt nam, bưu kiện, gửi đồ về nhà
+W|우체국|u-che-guk|bưu điện|우체국이 몇 시에 닫아요?|Bưu điện mấy giờ đóng cửa?
+W|택배|taek-bae|chuyển phát (giao hàng tận nơi)|택배가 왔어요.|Có hàng chuyển phát đến.
+W|국제 택배|guk-je taek-bae|gửi hàng quốc tế|국제 택배를 보내고 싶어요.|Tôi muốn gửi hàng quốc tế.
+W|소포|so-po|bưu kiện|베트남으로 소포를 보내요.|Gửi bưu kiện về Việt Nam.
+W|보내다|bo-nae-da|gửi|이거 베트남에 보내요.|Gửi cái này về Việt Nam.
+W|상자|sang-ja|thùng, hộp|상자 하나 주세요.|Cho tôi một cái thùng.
+W|무게|mu-ge|cân nặng|무게가 얼마나 돼요?|Nặng bao nhiêu?
+W|킬로|kil-lo|ki-lô-gam|5킬로예요.|5 ki-lô.
+W|항공|hang-gong|đường hàng không|항공으로 보내 주세요.|Gửi đường hàng không giúp tôi.
+W|배편|bae-pyeon|đường biển|배편이 더 싸요?|Đường biển rẻ hơn à?
+W|요금|yo-geum|cước phí|요금이 얼마예요?|Cước bao nhiêu?
+W|내용물|nae-yong-mul|đồ bên trong|내용물이 뭐예요?|Bên trong là gì?
+W|받는 사람|ban-neun sa-ram|người nhận|받는 사람 주소를 써 주세요.|Viết địa chỉ người nhận giúp tôi.
+W|운송장|un-song-jang|phiếu gửi hàng (vận đơn)|운송장 번호 알려 주세요.|Cho tôi số vận đơn.
+W|깨지다|kkae-ji-da|vỡ|깨지기 쉬운 물건이에요.|Là đồ dễ vỡ.
+W|며칠|myeo-chil|mấy ngày|며칠 걸려요?|Mất mấy ngày?
+W|분실|bul-sil|thất lạc, mất|분실되면 어떻게 해요?|Nếu bị thất lạc thì sao?
+W|금지 물품|geum-ji mul-pum|đồ cấm gửi|배터리는 금지 물품이에요.|Pin là đồ cấm gửi.
+G|N(으)로 보내 주세요|gửi bằng / gửi tới N giúp tôi|có patchim (trừ ㄹ): N + 으로 (항공으로, 베트남으로)|không patchim hoặc ㄹ: N + 로 (하노이로)|항공으로 보내 주세요.|Gửi đường hàng không giúp tôi.
+G|V-는 데 얼마나 걸려요?|V mất bao lâu?|V + 는 데 얼마나 걸려요?|hỏi tiền: V + 는 데 얼마예요?|베트남까지 가는 데 얼마나 걸려요?|Gửi đến Việt Nam mất bao lâu?
+S|Bạn mang thùng quần áo và đồ ăn khô ra bưu điện gửi về Việt Nam. Hỏi gửi máy bay và gửi tàu khác nhau thế nào, mất mấy ngày, cước bao nhiêu; nhân viên hỏi bên trong có pin không.
+D|Bạn|이거 베트남으로 보내고 싶어요.|Tôi muốn gửi cái này về Việt Nam.
+D|Nhân viên|내용물이 뭐예요?|Bên trong là gì ạ?
+D|Bạn|옷하고 과자예요. 배터리는 없어요.|Quần áo và bánh kẹo. Không có pin.
+D|Nhân viên|5킬로네요. 항공으로 보낼까요, 배편으로 보낼까요?|Nặng 5 ki-lô. Gửi máy bay hay tàu biển ạ?
+D|Bạn|베트남까지 가는 데 얼마나 걸려요?|Đến Việt Nam mất bao lâu ạ?
+D|Nhân viên|항공은 일주일, 배편은 한 달쯤 걸려요. 배편이 더 싸요.|Máy bay một tuần, tàu biển khoảng một tháng. Tàu biển rẻ hơn.
+D|Bạn|그럼 항공으로 보내 주세요.|Vậy gửi máy bay giúp tôi.
+Q|Thùng hàng nặng bao nhiêu?|5 ki-lô.
+Q|Bạn chọn gửi bằng gì?|Đường hàng không (항공), mất khoảng một tuần.
+@lesson|10|Ngân hàng
+K|ngân hàng, mở tài khoản, chuyển tiền, gửi tiền về, thẻ ngân hàng, rút tiền, đổi tiền
+W|은행|eun-haeng|ngân hàng|은행에 가야 해요.|Tôi phải đi ngân hàng.
+W|통장|tong-jang|sổ tài khoản|통장을 만들고 싶어요.|Tôi muốn mở sổ tài khoản.
+W|계좌|gye-jwa|tài khoản|계좌 번호가 뭐예요?|Số tài khoản là gì?
+W|입금|ip-geum|gửi tiền vào|월급이 입금됐어요.|Lương đã vào tài khoản.
+W|출금|chul-geum|rút tiền|현금을 출금해요.|Tôi rút tiền mặt.
+W|송금|song-geum|chuyển tiền|친구에게 송금했어요.|Tôi đã chuyển tiền cho bạn.
+W|해외 송금|hae-oe song-geum|chuyển tiền ra nước ngoài|해외 송금은 어디에서 해요?|Chuyển tiền ra nước ngoài làm ở đâu?
+W|환율|hwa-nyul|tỷ giá|오늘 환율이 어때요?|Tỷ giá hôm nay thế nào?
+W|수수료|su-su-ryo|phí, lệ phí|수수료가 얼마예요?|Phí bao nhiêu?
+W|비밀번호|bi-mil-beon-ho|mật khẩu|비밀번호를 눌러 주세요.|Xin bấm mật khẩu.
+W|체크카드|che-keu-ka-deu|thẻ ghi nợ|체크카드를 만들어요.|Tôi làm thẻ ghi nợ.
+W|신분증|sin-bun-jeung|giấy tờ tùy thân|신분증 있어요?|Có giấy tờ tùy thân không?
+W|번호표|beon-ho-pyo|phiếu số thứ tự|번호표를 뽑으세요.|Hãy lấy phiếu số thứ tự.
+W|창구|chang-gu|quầy giao dịch|3번 창구로 오세요.|Mời đến quầy số 3.
+W|잔액|ja-naek|số dư|잔액이 부족해요.|Số dư không đủ.
+W|월급|wol-geup|lương tháng|월급날이 언제예요?|Ngày nhận lương là khi nào?
+G|V-고 싶어요|muốn làm V|dùng chung mọi động từ: gốc + 고 싶어요|하다 -> 하고 싶어요 (송금하고 싶어요)|베트남에 송금하고 싶어요.|Tôi muốn chuyển tiền về Việt Nam.
+G|N이/가 얼마예요?|N bao nhiêu (tiền)?|có patchim: N + 이 (요금이 얼마예요?)|không patchim: N + 가 (수수료가 얼마예요?)|수수료가 얼마예요?|Phí bao nhiêu ạ?
+S|Ngày nhận lương, bạn ra ngân hàng muốn chuyển 100만 원 về Việt Nam: lấy phiếu số thứ tự, hỏi tỷ giá hôm nay và phí chuyển tiền.
+D|Nhân viên|번호표 뽑으셨어요? 무엇을 도와드릴까요?|Đã lấy số thứ tự chưa ạ? Tôi giúp gì được ạ?
+D|Bạn|베트남으로 해외 송금하고 싶어요.|Tôi muốn chuyển tiền về Việt Nam.
+D|Nhân viên|신분증 주세요. 얼마 보내실 거예요?|Cho tôi giấy tờ tùy thân. Anh/chị gửi bao nhiêu ạ?
+D|Bạn|백만 원이요. 수수료가 얼마예요?|Một triệu won. Phí bao nhiêu ạ?
+D|Nhân viên|수수료는 만 원이에요.|Phí là 10 nghìn won.
+D|Bạn|네, 그렇게 해 주세요.|Vâng, làm như vậy giúp tôi.
+Q|Bạn muốn chuyển bao nhiêu tiền?|Một triệu won (백만 원).
+Q|Phí chuyển tiền là bao nhiêu?|10 nghìn won (만 원).
+@lesson|11|Ủy ban / xuất nhập cảnh
+K|ủy ban, xuất nhập cảnh, thẻ người nước ngoài, gia hạn visa, visa, giấy tờ, thẻ cư trú
+W|출입국관리사무소|chu-rip-guk-gwal-li-sa-mu-so|phòng quản lý xuất nhập cảnh|출입국관리사무소에 가요.|Tôi đến phòng xuất nhập cảnh.
+W|주민센터|ju-min-sen-teo|trung tâm hành chính phường|주민센터는 몇 시에 열어요?|Trung tâm phường mấy giờ mở cửa?
+W|비자|bi-ja|visa, thị thực|비자가 곧 끝나요.|Visa sắp hết hạn.
+W|체류 기간|che-ryu gi-gan|thời hạn lưu trú|체류 기간을 확인해요.|Tôi kiểm tra thời hạn lưu trú.
+W|연장|yeon-jang|gia hạn|비자 연장을 신청해요.|Tôi nộp đơn gia hạn visa.
+W|신청|sin-cheong|đăng ký, nộp đơn|온라인으로 신청했어요.|Tôi đã đăng ký trên mạng.
+W|서류|seo-ryu|giấy tờ, hồ sơ|어떤 서류가 필요해요?|Cần những giấy tờ gì?
+W|여권|yeo-gwon|hộ chiếu|여권을 가져왔어요.|Tôi đã mang hộ chiếu.
+W|사진|sa-jin|ảnh|사진 한 장이 필요해요.|Cần một tấm ảnh.
+W|주소|ju-so|địa chỉ|주소를 써 주세요.|Xin hãy viết địa chỉ.
+W|변경|byeon-gyeong|thay đổi|주소를 변경하러 왔어요.|Tôi đến để đổi địa chỉ.
+W|예약|ye-yak|đặt hẹn|방문 예약을 했어요.|Tôi đã đặt lịch đến.
+W|신청서|sin-cheong-seo|đơn đăng ký|신청서를 작성해 주세요.|Xin điền đơn đăng ký.
+W|작성|jak-seong|viết, điền (giấy tờ)|이렇게 작성하면 돼요?|Điền thế này được không?
+W|발급|bal-geup|cấp (giấy tờ)|카드는 언제 발급돼요?|Khi nào thẻ được cấp?
+W|기한|gi-han|hạn, kỳ hạn|신청 기한이 언제까지예요?|Hạn nộp đến khi nào?
+G|V-(으)려고 해요|định làm V|có patchim: + 으려고 해요 (받으려고 해요)|không patchim: + 려고 해요 (연장하려고 해요)|비자를 연장하려고 해요.|Tôi định gia hạn visa.
+G|V-아/어야 해요|phải làm V|nguyên âm ㅏ/ㅗ: + 아야 해요 (가야 해요)|nguyên âm khác: + 어야 해요; 하다 -> 해야 해요|서류를 내야 해요.|Phải nộp giấy tờ.
+G|V-(으)러 왔어요|đến để làm V|có patchim: + 으러 (받으러 왔어요)|không patchim: + 러 (변경하러 왔어요)|주소를 변경하러 왔어요.|Tôi đến để đổi địa chỉ.
+S|Bạn vừa chuyển nhà, đến phòng xuất nhập cảnh để khai báo đổi địa chỉ: nói mục đích đến, hỏi cần giấy tờ gì và nhờ hướng dẫn điền đơn.
+D|Nhân viên|무엇 때문에 오셨어요?|Anh/chị đến vì việc gì ạ?
+D|Bạn|비자를 연장하려고 왔어요.|Tôi đến để gia hạn visa.
+D|Nhân viên|예약하셨어요?|Anh/chị đặt hẹn chưa ạ?
+D|Bạn|네, 10시에 예약했어요. 여기 여권하고 신청서요.|Rồi, tôi hẹn lúc 10 giờ. Đây là hộ chiếu và đơn.
+D|Nhân viên|사진도 필요해요. 주소가 바뀌었어요?|Cần cả ảnh nữa. Địa chỉ có thay đổi không?
+D|Bạn|네, 지난달에 이사했어요.|Có, tháng trước tôi chuyển nhà.
+D|Nhân viên|그럼 주소 변경 신고도 해야 해요.|Vậy phải khai báo đổi địa chỉ nữa.
+Q|Bạn đến để làm gì?|Gia hạn visa (비자 연장).
+Q|Bạn còn phải làm thêm gì?|Nộp ảnh và khai báo đổi địa chỉ vì vừa chuyển nhà.
+@lesson|12|Hiệu thuốc
+K|hiệu thuốc, nhà thuốc, mua thuốc, thuốc cảm, đau đầu, thuốc
+W|약사|yak-sa|dược sĩ|약사님, 감기약 있어요?|Dược sĩ ơi, có thuốc cảm không?
+W|감기약|gam-gi-yak|thuốc cảm|감기약 주세요.|Cho tôi thuốc cảm.
+W|두통약|du-tong-yak|thuốc đau đầu|두통약 있어요?|Có thuốc đau đầu không?
+W|소화제|so-hwa-je|thuốc tiêu hoá|체해서 소화제가 필요해요.|Tôi bị đầy bụng nên cần thuốc tiêu hoá.
+W|진통제|jin-tong-je|thuốc giảm đau|진통제 좀 주세요.|Cho tôi thuốc giảm đau.
+W|해열제|hae-yeol-je|thuốc hạ sốt|해열제를 먹었어요.|Tôi đã uống thuốc hạ sốt.
+W|파스|pa-seu|miếng dán giảm đau|허리에 파스를 붙여요.|Dán miếng giảm đau lên lưng.
+W|연고|yeon-go|thuốc mỡ, thuốc bôi|상처에 연고를 발라요.|Bôi thuốc mỡ lên vết thương.
+W|밴드|baen-deu|băng dán cá nhân|밴드 하나 주세요.|Cho tôi một miếng băng dán.
+W|상처|sang-cheo|vết thương|손에 상처가 났어요.|Tay tôi bị thương.
+W|목|mok|họng, cổ|목이 아파요.|Tôi đau họng.
+W|콧물|kon-mul|nước mũi|콧물이 나요.|Tôi bị sổ mũi.
+W|하루 세 번|ha-ru se beon|ngày 3 lần|하루 세 번 드세요.|Uống ngày 3 lần.
+W|식후|si-ku|sau bữa ăn|식후 30분에 드세요.|Uống sau ăn 30 phút.
+W|부작용|bu-ja-gyong|tác dụng phụ|부작용이 있어요?|Có tác dụng phụ không?
+W|졸리다|jol-li-da|buồn ngủ|이 약 먹으면 졸려요?|Uống thuốc này có buồn ngủ không?
+W|알레르기|al-le-reu-gi|dị ứng|약 알레르기가 있어요.|Tôi bị dị ứng thuốc.
+G|N이/가 나요|bị (sốt, sổ mũi, chảy máu...)|có patchim: N + 이 나요 (콧물이, 열이)|không patchim: N + 가 나요 (코피가 나요 = chảy máu cam)|콧물이 나요.|Tôi bị sổ mũi.
+G|V-(으)면 안 돼요?|không được V à?|có patchim: V + 으면 안 돼요? (먹으면)|không patchim hoặc ㄹ: V + 면 안 돼요? (마시면)|술 마시면 안 돼요?|Không được uống rượu à?
+G|A/V-(으)ㄹ 때|khi A/V|có patchim: + 을 때 (먹을 때)|không patchim hoặc ㄹ: + ㄹ 때 (아플 때, 잘 때)|아플 때 드세요.|Uống khi bị đau.
+S|Bạn bị đau họng, sổ mũi nhưng chưa sốt. Vào hiệu thuốc nói triệu chứng, hỏi thuốc có làm buồn ngủ không (vì mai phải đi làm), uống mấy lần một ngày và có được uống rượu không.
+D|Dược sĩ|어디가 아프세요?|Anh/chị đau ở đâu ạ?
+D|Bạn|목이 아프고 콧물이 나요. 열은 없어요.|Tôi đau họng và sổ mũi. Không sốt.
+D|Dược sĩ|이 감기약을 하루 세 번 식후에 드세요.|Uống thuốc cảm này ngày 3 lần, sau bữa ăn.
+D|Bạn|이 약 먹으면 졸려요? 내일 일해야 해요.|Uống thuốc này có buồn ngủ không? Mai tôi phải đi làm.
+D|Dược sĩ|조금 졸릴 수 있어요. 일할 때 조심하세요.|Có thể hơi buồn ngủ. Khi làm việc thì cẩn thận.
+D|Bạn|술 마시면 안 돼요?|Không được uống rượu ạ?
+D|Dược sĩ|네, 약 먹을 때는 술 드시지 마세요.|Vâng, khi uống thuốc thì đừng uống rượu.
+Q|Uống thuốc mấy lần một ngày?|Ngày 3 lần, sau bữa ăn (하루 세 번 식후).
+Q|Có được uống rượu không?|Không được.
+@lesson|13|Bệnh viện
+K|bệnh viện, đi khám, khám bệnh, bác sĩ, bị ốm, đau bụng, đi viện
+W|병원|byeong-won|bệnh viện|병원에 가요.|Tôi đi bệnh viện.
+W|접수|jeop-su|đăng ký, tiếp nhận|접수는 어디에서 해요?|Đăng ký ở đâu ạ?
+W|진료|jil-lyo|khám bệnh|진료를 예약했어요.|Tôi đã đặt lịch khám.
+W|의사|ui-sa|bác sĩ|의사 선생님을 만나요.|Tôi gặp bác sĩ.
+W|간호사|gan-ho-sa|y tá|간호사가 이름을 불러요.|Y tá gọi tên.
+W|아프다|a-peu-da|đau, ốm|머리가 아파요.|Tôi đau đầu.
+W|열|yeol|sốt|열이 나요.|Tôi bị sốt.
+W|기침|gi-chim|ho|기침을 많이 해요.|Tôi ho nhiều.
+W|감기|gam-gi|cảm cúm|감기에 걸렸어요.|Tôi bị cảm.
+W|배|bae|bụng|배가 아파요.|Tôi đau bụng.
+W|약|yak|thuốc|약을 하루에 세 번 먹어요.|Uống thuốc ngày ba lần.
+W|약국|yak-guk|hiệu thuốc|약국이 어디예요?|Hiệu thuốc ở đâu?
+W|처방전|cheo-bang-jeon|đơn thuốc|처방전을 주세요.|Cho tôi đơn thuốc.
+W|보험|bo-heom|bảo hiểm|건강 보험이 있어요.|Tôi có bảo hiểm y tế.
+W|외국인등록증|oe-gu-gin-deung-nok-jeung|thẻ người nước ngoài|외국인등록증을 보여 주세요.|Xin cho xem thẻ người nước ngoài.
+W|다치다|da-chi-da|bị thương|손을 다쳤어요.|Tôi bị thương ở tay.
+W|주사|ju-sa|tiêm, mũi tiêm|주사를 맞았어요.|Tôi đã tiêm rồi.
+G|N이/가 아파요|N bị đau|có patchim: N + 이 (발이 아파요)|không patchim: N + 가 (머리가 아파요)|배가 아파요.|Tôi đau bụng.
+G|V-(으)ㄴ 지 (thời gian) 됐어요|đã ... được (bao lâu)|có patchim: + 은 지 (먹은 지)|không patchim: + ㄴ 지 (아픈 지)|아픈 지 3일 됐어요.|Tôi bị ốm được 3 ngày rồi.
+S|Bạn bị sốt và ho đã 2 ngày. Đến quầy tiếp nhận của bệnh viện: đưa thẻ người nước ngoài, nói triệu chứng và hỏi có dùng được bảo hiểm y tế không.
+D|Y tá|접수하셨어요? 외국인등록증 주세요.|Đã đăng ký chưa ạ? Cho tôi thẻ người nước ngoài.
+D|Bạn|여기요. 보험 있어요.|Đây ạ. Tôi có bảo hiểm.
+D|Bác sĩ|어디가 아파서 오셨어요?|Anh/chị đau ở đâu mà đến ạ?
+D|Bạn|이틀 전부터 열이 나고 기침을 해요.|Từ hai hôm trước tôi bị sốt và ho.
+D|Bác sĩ|감기예요. 주사 한 대 맞고 약 드세요.|Bị cảm. Tiêm một mũi rồi uống thuốc.
+D|Bác sĩ|처방전 가지고 약국에 가세요.|Mang đơn thuốc đến hiệu thuốc nhé.
+Q|Bạn bị sốt và ho từ khi nào?|Từ hai hôm trước (이틀 전부터).
+Q|Bác sĩ nói bạn bị gì?|Bị cảm, tiêm một mũi rồi uống thuốc.
+@lesson|14|Nhà ở / ký túc xá
+K|nhà ở, thuê nhà, ký túc xá, chủ nhà, phòng trọ, hỏng đồ, đổ rác, máy sưởi
+W|집|jip|nhà|집에 가요.|Tôi về nhà.
+W|방|bang|phòng|방이 좀 추워요.|Phòng hơi lạnh.
+W|기숙사|gi-suk-sa|ký túc xá|회사 기숙사에 살아요.|Tôi sống ở ký túc xá công ty.
+W|월세|wol-se|tiền thuê nhà hằng tháng|월세가 얼마예요?|Tiền thuê tháng bao nhiêu?
+W|보증금|bo-jeung-geum|tiền đặt cọc|보증금을 돌려받아요.|Tôi nhận lại tiền cọc.
+W|관리비|gwal-li-bi|phí quản lý|관리비는 따로 내요.|Phí quản lý trả riêng.
+W|집주인|jip-ju-in|chủ nhà|집주인한테 전화했어요.|Tôi đã gọi cho chủ nhà.
+W|계약|gye-yak|hợp đồng|계약이 다음 달에 끝나요.|Hợp đồng hết vào tháng sau.
+W|이사|i-sa|chuyển nhà|다음 주에 이사해요.|Tuần sau tôi chuyển nhà.
+W|고장|go-jang|hỏng hóc|세탁기가 고장 났어요.|Máy giặt bị hỏng.
+W|보일러|bo-il-leo|máy sưởi (nước nóng sàn)|보일러가 안 돼요.|Máy sưởi không chạy.
+W|에어컨|e-eo-keon|điều hòa|에어컨을 켜 주세요.|Bật điều hòa giúp tôi.
+W|수리|su-ri|sửa chữa|언제 수리할 수 있어요?|Khi nào sửa được?
+W|쓰레기|sseu-re-gi|rác|쓰레기는 언제 버려요?|Khi nào đổ rác?
+W|분리수거|bul-li-su-geo|phân loại rác|분리수거를 해야 해요.|Phải phân loại rác.
+W|룸메이트|rum-me-i-teu|bạn cùng phòng|룸메이트가 베트남 사람이에요.|Bạn cùng phòng là người Việt.
+W|층간 소음|cheung-gan so-eum|tiếng ồn giữa các tầng|밤에 층간 소음이 심해요.|Ban đêm tiếng ồn tầng trên rất to.
+G|N이/가 고장 났어요|N bị hỏng rồi|có patchim: N + 이 (에어컨이 고장 났어요)|không patchim: N + 가 (보일러가 고장 났어요)|보일러가 고장 났어요.|Máy sưởi bị hỏng rồi.
+G|V-아/어도 돼요?|V có được không? (xin phép)|nguyên âm ㅏ/ㅗ: + 아도 돼요 (봐도 돼요?)|nguyên âm khác: + 어도 돼요; 하다 -> 해도 돼요|지금 전화해도 돼요?|Bây giờ gọi điện có được không?
+S|Mùa đông, máy sưởi trong phòng bị hỏng. Bạn gọi điện cho chủ nhà: chào, báo máy sưởi không chạy từ hôm qua và hỏi khi nào có người đến sửa.
+D|Bạn|사장님, 보일러가 고장 났어요. 물이 안 따뜻해요.|Chủ nhà ơi, máy sưởi hỏng rồi. Nước không ấm.
+D|Chủ nhà|언제부터 그랬어요?|Từ bao giờ vậy?
+D|Bạn|어제 저녁부터요. 너무 추워요.|Từ tối hôm qua ạ. Lạnh quá.
+D|Chủ nhà|내일 오전에 수리 기사님이 갈 거예요.|Sáng mai thợ sửa sẽ đến.
+D|Bạn|감사합니다. 쓰레기는 언제 버려요?|Cảm ơn ạ. Rác thì bỏ lúc nào ạ?
+D|Chủ nhà|분리수거는 수요일 저녁에 하세요.|Rác phân loại thì bỏ vào tối thứ Tư.
+Q|Máy sưởi hỏng từ khi nào?|Từ tối hôm qua (어제 저녁부터).
+Q|Khi nào thợ sửa đến?|Sáng mai (내일 오전).
+@lesson|15|Làm việc ở xưởng
+K|nhà máy, ở xưởng, trong xưởng, làm xưởng, công xưởng, công ty, đi làm, tăng ca, tổ trưởng, ca đêm, hàng lỗi
+W|공장|gong-jang|nhà máy, xưởng|공장에서 일해요.|Tôi làm ở nhà máy.
+W|출근|chul-geun|đi làm (đến chỗ làm)|8시까지 출근해요.|Tôi đi làm trước 8 giờ.
+W|퇴근|toe-geun|tan làm|몇 시에 퇴근해요?|Mấy giờ tan làm?
+W|작업|ja-geop|công việc, thao tác|작업을 시작해요.|Bắt đầu làm việc.
+W|잔업|ja-neop|làm thêm giờ, tăng ca|오늘 잔업 있어요?|Hôm nay có tăng ca không?
+W|교대|gyo-dae|đổi ca|저는 야간 교대예요.|Tôi làm ca đêm.
+W|주간|ju-gan|ca ngày|다음 주는 주간이에요.|Tuần sau làm ca ngày.
+W|야간|ya-gan|ca đêm|야간은 힘들어요.|Ca đêm vất vả.
+W|반장님|ban-jang-nim|tổ trưởng|반장님, 질문 있어요.|Tổ trưởng ơi, tôi có câu hỏi.
+W|기계|gi-gye|máy, máy móc|기계가 멈췄어요.|Máy dừng rồi.
+W|불량|bul-lyang|hàng lỗi|이거 불량이에요.|Cái này là hàng lỗi.
+W|검사|geom-sa|kiểm tra|검사를 다 했어요.|Kiểm tra xong hết rồi.
+W|기스|gi-seu|vết xước (từ mượn, trong xưởng hay nói; phổ thông: 흠집)|기스가 났어요.|Bị xước rồi.
+W|안전|an-jeon|an toàn|안전이 제일이에요.|An toàn là trên hết.
+W|장갑|jang-gap|găng tay|장갑을 끼세요.|Hãy đeo găng tay.
+W|휴식 시간|hyu-sik si-gan|giờ nghỉ|휴식 시간은 10분이에요.|Giờ nghỉ là 10 phút.
+W|월급날|wol-geum-nal|ngày lương|월급날이 언제예요?|Ngày lương là ngày nào?
+G|V-았/었어요|đã làm (quá khứ)|nguyên âm ㅏ/ㅗ: + 았어요 (끝났어요)|nguyên âm khác: + 었어요; 하다 -> 했어요|작업 다 했어요.|Tôi làm xong việc rồi.
+G|V-(으)ㄹ까요?|tôi ... nhé? (hỏi ý)|có patchim: V + 을까요? (읽을까요)|không patchim hoặc ㄹ: V + ㄹ까요? (할까요, 갈까요)|제가 정리할까요?|Để tôi dọn nhé?
+G|N 때문에|vì N|N + 때문에 (잔업 때문에)|V-기 때문에 (늦었기 때문에)|기계 고장 때문에 작업이 멈췄어요.|Vì máy hỏng nên công việc dừng lại.
+S|Cuối ca, tổ trưởng (반장님) báo hôm nay tăng ca 2 tiếng. Bạn báo đã kiểm tra xong hàng, có vài cái bị xước, hỏi có để riêng không, và xin về đúng giờ vì có hẹn ở bệnh viện.
+D|Tổ trưởng|오늘 잔업 두 시간 있어요.|Hôm nay tăng ca hai tiếng.
+D|Bạn|반장님, 검사 다 했어요. 그런데 몇 개 기스가 났어요.|Tổ trưởng ơi, kiểm tra xong rồi. Nhưng mấy cái bị xước.
+D|Tổ trưởng|몇 개요?|Mấy cái?
+D|Bạn|다섯 개요. 따로 둘까요?|Năm cái ạ. Để riêng nhé?
+D|Tổ trưởng|네, 불량은 저쪽에 따로 두세요.|Ừ, hàng lỗi để riêng ở đằng kia.
+D|Bạn|그리고 오늘은 병원 예약 때문에 잔업이 어려워요.|Và hôm nay tôi có hẹn bệnh viện nên khó tăng ca.
+D|Tổ trưởng|알겠어요. 내일은 꼭 해 주세요.|Được rồi. Mai nhất định làm nhé.
+Q|Có mấy cái bị xước?|Năm cái (다섯 개).
+Q|Vì sao hôm nay bạn khó tăng ca?|Vì có hẹn ở bệnh viện.
+@lesson|16|Xin làm thêm ở quán
+K|làm thêm, xin làm thêm, xin việc, tìm việc, phỏng vấn, alba, 알바, lương theo giờ, xin việc làm quán
+W|아르바이트|a-reu-ba-i-teu|làm thêm (nói tắt thân mật: 알바)|주말에 아르바이트를 해요.|Cuối tuần tôi đi làm thêm.
+W|구하다|gu-ha-da|tìm, tuyển (người)|혹시 알바 구하세요?|Quán có đang tuyển làm thêm không ạ?
+W|면접|myeon-jeop|phỏng vấn|내일 면접이 있어요.|Mai tôi có buổi phỏng vấn.
+W|이력서|i-ryeok-seo|sơ yếu lý lịch|이력서 가져왔어요.|Tôi mang sơ yếu lý lịch đến rồi ạ.
+W|시급|si-geup|lương theo giờ|시급이 얼마예요?|Lương theo giờ bao nhiêu ạ?
+W|근무 시간|geun-mu si-gan|giờ làm|근무 시간이 어떻게 돼요?|Giờ làm thế nào ạ?
+W|요일|yo-il|thứ (trong tuần)|무슨 요일에 일해요?|Làm vào thứ mấy ạ?
+W|평일|pyeong-il|ngày thường (thứ Hai – thứ Sáu)|평일에는 수업이 있어요.|Ngày thường tôi có giờ học.
+W|경험|gyeong-heom|kinh nghiệm|식당에서 일한 경험이 있어요.|Tôi có kinh nghiệm làm ở quán ăn.
+W|시간제 취업 허가|si-gan-je chwi-eop heo-ga|giấy phép làm thêm theo giờ (du học sinh xin ở xuất nhập cảnh)|시간제 취업 허가를 받았어요.|Tôi đã có giấy phép làm thêm rồi ạ.
+W|근로계약서|geul-lo-gye-yak-seo|hợp đồng lao động (bản giấy)|근로계약서 쓰나요?|Có làm hợp đồng lao động không ạ?
+W|주휴수당|ju-hyu-su-dang|tiền phụ cấp ngày nghỉ tuần (làm từ 15 giờ/tuần trở lên)|주휴수당도 있어요?|Có phụ cấp nghỉ tuần không ạ?
+G|V-(으)ㄴ/는다고 들었어요|nghe nói là ...|động từ có patchim: V + 는다고 (먹는다고); không patchim: V + ㄴ다고 (구한다고)|tính từ: A + 다고 (바쁘다고); danh từ: N(이)라고 (학생이라고)|여기 알바 구한다고 들었어요.|Tôi nghe nói ở đây đang tuyển làm thêm.
+G|V-아/어 본 적이 있어요|đã từng V|nguyên âm ㅏ/ㅗ: + 아 본 적이 있어요 (가 본 적이 있어요)|nguyên âm khác: + 어 본 적이 있어요; 하다 -> 해 본 적이 있어요|식당에서 일해 본 적이 있어요.|Tôi đã từng làm ở quán ăn.
+G|N부터 N까지|từ N đến N|thời gian: 6시부터 10시까지|nơi chốn dùng 에서 ... 까지 (집에서 가게까지)|월요일부터 금요일까지 일할 수 있어요.|Tôi làm được từ thứ Hai đến thứ Sáu.
+S|Bạn là du học sinh, thấy quán gà rán dán giấy "알바 구함". Bạn vào hỏi chủ quán: còn tuyển không, nói bạn đã có giấy phép làm thêm, hỏi lương theo giờ và giờ làm, nói bạn làm được thứ mấy, rồi hẹn ngày phỏng vấn.
+D|Bạn|안녕하세요. 여기 알바 구한다고 들었어요.|Xin chào. Tôi nghe nói ở đây đang tuyển làm thêm.
+D|Chủ quán|네, 구해요. 학생이에요?|Ừ, đang tuyển. Bạn là sinh viên à?
+D|Bạn|네, 어학당 학생이에요. 시간제 취업 허가도 받았어요.|Vâng, tôi học ở viện ngôn ngữ. Tôi cũng có giấy phép làm thêm rồi.
+D|Chủ quán|식당에서 일해 본 적이 있어요?|Bạn từng làm ở quán ăn chưa?
+D|Bạn|베트남에서 해 본 적이 있어요. 시급은 얼마예요?|Tôi từng làm ở Việt Nam. Lương theo giờ bao nhiêu ạ?
+D|Chủ quán|시급은 만 오백 원이에요. 주말에 일할 수 있어요?|Lương giờ là 10.500 won. Cuối tuần làm được không?
+D|Bạn|네, 토요일하고 일요일에 할 수 있어요.|Vâng, thứ Bảy và Chủ nhật tôi làm được.
+D|Chủ quán|그럼 내일 오후 세 시에 면접 보러 오세요. 이력서 가져오세요.|Vậy 3 giờ chiều mai đến phỏng vấn nhé. Mang theo sơ yếu lý lịch.
+Q|Lương theo giờ bao nhiêu?|10.500 won (만 오백 원).
+Q|Khi nào đi phỏng vấn, cần mang gì?|3 giờ chiều mai, mang sơ yếu lý lịch (이력서).
+@lesson|17|Làm ở quán: nói chuyện với chủ và khách
+K|làm quán, làm ở quán, làm nhà hàng, phục vụ, rửa bát, bưng bê, tiếp khách, phụ bếp, làm bếp, chạy bàn, nói với khách
+W|설거지|seol-geo-ji|rửa bát|설거지 다 했어요.|Tôi rửa bát xong rồi ạ.
+W|청소|cheong-so|dọn dẹp, lau dọn|청소는 제가 할게요.|Để tôi dọn dẹp ạ.
+W|테이블을 닦다|te-i-beu-reul dak-da|lau bàn|테이블 다 닦았어요.|Tôi lau bàn xong rồi ạ.
+W|서빙|seo-bing|bưng bê, chạy bàn (từ mượn tiếng Anh, quán nào cũng nói)|오늘은 서빙해 주세요.|Hôm nay bạn chạy bàn nhé.
+W|주방 보조|ju-bang bo-jo|phụ bếp|저는 주방 보조로 일해요.|Tôi làm phụ bếp.
+W|재료|jae-ryo|nguyên liệu (재료 손질 = sơ chế nguyên liệu)|재료 손질 다 했어요.|Sơ chế nguyên liệu xong rồi ạ.
+W|손님|son-nim|khách|손님 오셨어요.|Khách đến rồi ạ.
+W|자리|ja-ri|chỗ ngồi|이쪽 자리에 앉으세요.|Mời ngồi chỗ này ạ.
+W|나오다|na-o-da|(món) ra, được mang ra|음식 금방 나와요.|Món ra ngay ạ.
+W|잠시만 기다려 주세요|jam-si-man gi-da-ryeo ju-se-yo|xin chờ một chút (lịch sự)|잠시만 기다려 주세요.|Xin quý khách chờ một chút.
+W|끝나다|kkeun-na-da|xong, kết thúc|청소 끝났어요.|Dọn xong rồi ạ.
+W|결제|gyeol-je|thanh toán (quẹt thẻ, chuyển khoản)|카드로 결제하시겠어요?|Quý khách thanh toán bằng thẻ ạ?
+G|V-아/어 놨어요|đã làm (sẵn) rồi – báo lại cho chủ|nguyên âm ㅏ/ㅗ: + 아 놨어요 (닦아 놨어요)|nguyên âm khác: + 어 놨어요; 하다 -> 해 놨어요 (nói đầy đủ: 해 놓았어요)|설거지 다 해 놨어요.|Tôi rửa bát xong hết rồi ạ.
+G|V-(으)시겠어요?|quý khách có muốn V không ạ? (rất lịch sự)|có patchim: V + 으시겠어요? (앉으시겠어요?)|không patchim: V + 시겠어요? (주문하시겠어요?, 결제하시겠어요?)|주문하시겠어요?|Quý khách gọi món ạ?
+G|V-아/어 드릴게요|tôi sẽ làm cho (khách / người trên)|nguyên âm ㅏ/ㅗ: + 아 드릴게요 (닦아 드릴게요)|nguyên âm khác: + 어 드릴게요; 하다 -> 해 드릴게요 (계산해 드릴게요)|물 갖다 드릴게요.|Tôi mang nước ra cho quý khách ạ.
+S|Bạn làm thêm ở quán canh. Chủ quán dặn rửa bát rồi lau bàn; làm xong bạn báo lại chủ. Rồi có 2 khách vào: bạn chào, mời ngồi, nhận gọi món (주문 받다), xin lỗi vì món ra chậm và tính tiền bằng thẻ.
+D|Chủ quán|설거지 먼저 하고 테이블 좀 닦아 줘.|Rửa bát trước rồi lau bàn giúp nhé.
+D|Bạn|네, 사장님. 설거지하고 테이블 다 닦아 놨어요.|Vâng ạ. Tôi rửa bát và lau bàn xong hết rồi ạ.
+D|Chủ quán|수고했어. 손님 오셨다. 주문 좀 받아 줘.|Vất vả rồi. Khách đến kìa, ra nhận gọi món nhé.
+D|Bạn|어서 오세요. 두 분이세요? 이쪽 자리에 앉으세요.|Mời vào. Hai vị ạ? Mời ngồi chỗ này ạ.
+D|Khách|된장찌개 두 개 주세요.|Cho hai canh tương.
+D|Bạn|네, 된장찌개 두 개요. 잠시만 기다려 주세요.|Vâng, hai canh tương ạ. Xin chờ một chút.
+D|Bạn|늦게 나와서 죄송합니다. 맛있게 드세요.|Xin lỗi món ra chậm ạ. Chúc ngon miệng.
+D|Khách|계산해 주세요.|Tính tiền giúp tôi.
+D|Bạn|네, 카드로 결제하시겠어요?|Vâng, quý khách thanh toán bằng thẻ ạ?
+Q|Chủ quán bảo làm gì trước?|Rửa bát trước, rồi lau bàn (설거지, 테이블 닦기).
+Q|Khách gọi món gì?|Hai canh tương (된장찌개 두 개).
+#END|524|4740ebd6

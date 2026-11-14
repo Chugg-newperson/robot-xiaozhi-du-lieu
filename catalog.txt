@@ -1,0 +1,4 @@
+# Danh muc goi giao trinh Robot Xiaozhi (robot doc file nay qua PACK_CATALOG_URL)
+# Moi dong: ma goi|ten hien thi|duong dan file .rgt|so byte|crc32 (script csv_to_pack.py in ra dong nay)
+cuoc-song-hang-ngay|Cuộc sống hàng ngày|https://raw.githubusercontent.com/Chugg-newperson/robot-xiaozhi-du-lieu/main/cuoc-song-hang-ngay.rgt|57262|14675906
+thu-nghe-bai-goc|Thử nghe bài gốc|https://raw.githubusercontent.com/Chugg-newperson/robot-xiaozhi-du-lieu/main/thu-nghe-bai-goc.rgt|851|f91056fe

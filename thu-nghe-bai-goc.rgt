@@ -1,0 +1,14 @@
+#ROBOT-GIAO-TRINH|1
+@book|thu-nghe-bai-goc|Thử nghe bài gốc
+@lesson|1|Thử phát bài nghe từ robot
+A|1|asset:nhac_thu.webm|Nhạc thử của dự án Robot Xiaozhi (tự làm)|tu-lam
+W|듣기|deut-gi|nghe, bài nghe|듣기 연습을 해요.|Tôi luyện nghe.
+@lesson|2|Thử phát bài nghe qua mạng
+A|2|https://raw.githubusercontent.com/Chugg-newperson/robot-xiaozhi-du-lieu/main/nhac_thu.webm|Nhạc thử của dự án Robot Xiaozhi (tự làm)|tu-lam
+W|파일|pa-il|tệp, file|파일을 열어요.|Mở tệp.
+@lesson|3|Thử báo bài nghe có bản quyền
+A|3|-|Bài nghe của sách (ví dụ, không có tệp)|ban-quyen
+W|저작권|jeo-jak-gwon|bản quyền|저작권이 있어요.|Có bản quyền.
+@lesson|4|Thử bài chưa có file nghe
+W|없다|eop-da|không có|파일이 없어요.|Không có tệp.
+#END|13|1f5d77a8

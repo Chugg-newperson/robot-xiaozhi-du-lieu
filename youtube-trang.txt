@@ -1,0 +1,7 @@
+# Danh sach trang trung gian nhac YouTube cho Robot Xiaozhi (robot doc qua YOUTUBE_INSTANCES_URL)
+# Moi dong: invidious|https://ten-trang   hoac   piped|https://api-cua-trang-piped
+# CHI ghi trang DA THU chay tren may tinh (docs/robot/nhac-youtube.md muc 7.1 trong kho chinh).
+# Robot thu toi da 3 trang moi lan, trang loi bi bo qua 30 phut. Bo dau '#' o dau dong de dung.
+# Hien chua co trang nao (robot bao "chua tim duoc bai nay").
+# invidious|https://vi-du-invidious.example
+# piped|https://vi-du-pipedapi.example
