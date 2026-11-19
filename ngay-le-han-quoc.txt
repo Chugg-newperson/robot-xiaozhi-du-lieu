@@ -1,0 +1,52 @@
+# Ngay le Han Quoc cho robot Xiaozhi (doc boi home_service.h, moi dong: YYYY-MM-DD|ten)
+# Dong bat dau bang # la ghi chu. Them nam moi: them dong o cuoi (giu dung dang), day len kho cong khai.
+# Tet am lich (Seollal), Chuseok, Phat dan tinh theo AM LICH - CAN KIEM TRA LAI moi nam (lich nha nuoc Han Quoc).
+# Ngay nghi bu (daechegonghyuil) da tinh theo luat 2023: quoc khanh / Thieu nhi / Phat dan / Giang sinh trung T7-CN,
+# Tet / Chuseok trung CN -> nghi bu ngay lam viec ke tiep.
+# 19/11/2026: them Ngay Lao dong 1/5 va Ngay Hien phap 17/7 (ngay nghi chung tu 2026, theo lich nha nuoc 2026-2027) + nghi bu 2027.
+2026-01-01|Tết dương lịch
+2026-02-16|Tết âm lịch (Seollal)
+2026-02-17|Tết âm lịch (Seollal)
+2026-02-18|Tết âm lịch (Seollal)
+2026-03-01|Ngày Độc lập 3·1
+2026-03-02|Nghỉ bù 3·1
+2026-05-01|Ngày Lao động
+2026-05-05|Ngày Thiếu nhi
+2026-05-24|Lễ Phật đản
+2026-05-25|Nghỉ bù Phật đản
+2026-06-03|Bầu cử địa phương
+2026-06-06|Ngày Tưởng niệm
+2026-07-17|Ngày Hiến pháp
+2026-08-15|Ngày Giải phóng
+2026-08-17|Nghỉ bù Giải phóng
+2026-09-24|Trung thu (Chuseok)
+2026-09-25|Trung thu (Chuseok)
+2026-09-26|Trung thu (Chuseok)
+2026-10-03|Ngày Lập quốc
+2026-10-05|Nghỉ bù Lập quốc
+2026-10-09|Ngày Hangeul
+2026-12-25|Giáng sinh
+2027-01-01|Tết dương lịch
+2027-02-06|Tết âm lịch (Seollal)
+2027-02-07|Tết âm lịch (Seollal)
+2027-02-08|Tết âm lịch (Seollal)
+2027-02-09|Nghỉ bù Tết âm lịch
+2027-03-01|Ngày Độc lập 3·1
+2027-05-01|Ngày Lao động
+2027-05-03|Nghỉ bù Lao động
+2027-05-05|Ngày Thiếu nhi
+2027-05-13|Lễ Phật đản
+2027-06-06|Ngày Tưởng niệm
+2027-07-17|Ngày Hiến pháp
+2027-07-19|Nghỉ bù Hiến pháp
+2027-08-15|Ngày Giải phóng
+2027-08-16|Nghỉ bù Giải phóng
+2027-09-14|Trung thu (Chuseok)
+2027-09-15|Trung thu (Chuseok)
+2027-09-16|Trung thu (Chuseok)
+2027-10-03|Ngày Lập quốc
+2027-10-04|Nghỉ bù Lập quốc
+2027-10-09|Ngày Hangeul
+2027-10-11|Nghỉ bù Hangeul
+2027-12-25|Giáng sinh
+2027-12-27|Nghỉ bù Giáng sinh
